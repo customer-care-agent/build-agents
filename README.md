@@ -40,3 +40,12 @@ Giao diện
 ## other
 
 # AGENTS
+
+
+# SERVE MODEL LLM
+
+## OLLAMA
+
+- sử dụng ollama dùng cho local test
+
+## VLLM
