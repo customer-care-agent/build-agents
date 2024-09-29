@@ -31,6 +31,12 @@
 
 ```
 
+Giao diện
+
+![image](https://github.com/user-attachments/assets/bd7758e5-f139-40bd-99ad-dd8509a03af1)
+
+
+
 ## other
 
 # AGENTS
